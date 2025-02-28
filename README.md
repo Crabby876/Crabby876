@@ -1,5 +1,11 @@
-## Hi there 👋
+## Güler Doruk
 
+IMS student passionate about software development and problem-solving.  
+Currently improving my skills in C# & Phyton 
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, HTML, CSS, Python, C#, SQL, PS
+- **Version Control:** Git, GitHub    
 <!--
 **Crabby876/Crabby876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
