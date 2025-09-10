@@ -1,11 +1,20 @@
 ## Güler Doruk
 
-IMS student passionate about software development and problem-solving.  
-Currently improving my skills in C# & Phyton 
+IMS student passionate about software development, data science and problem-solving.  
 
 ## Tech Stack
-- **Languages:** JavaScript, HTML, CSS, Python, C#, SQL, PS
-- **Version Control:** Git, GitHub
+- JavaScript
+- HTML
+- CSS
+- Python
+- C#
+- SQL
+- PS
+- Git
+- GitHub
 
 ## Currently learning:
-- ML with Python
+- DevOps
+- Expo
+- React
+- TypeScript
