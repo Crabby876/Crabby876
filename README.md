@@ -1,4 +1,4 @@
-## Güler Doruk
+## Doruk Güler
 
 IMS student passionate about software development, data science and problem-solving.  
 
